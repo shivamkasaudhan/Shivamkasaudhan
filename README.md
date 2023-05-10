@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm SHivam Kasaudhan</h1>
+<h1 align="center">Hi , I'm Shivam Kasaudhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkasaudhan&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkasaudhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkasaudhan" alt="shivamkasaudhan" /></a> </p>
