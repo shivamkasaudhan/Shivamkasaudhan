@@ -1,7 +1,9 @@
-<h1 align="center">Hi , I'm Shivam Kasaudhan</h1>
+<h1 align="center">Hi , I'm SHivam Kasaudhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkasaudhan&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkasaudhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkasaudhan" alt="shivamkasaudhan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkasaudhan" alt="shivamkasaudhan" /></a> </p>
+
+- 🌱 I’m currently learning **Data Structure & Algorithm**
 
 - 📫 How to reach me **shivam.kasaudhan2021.vitbhopal.ac.in**
 
@@ -10,6 +12,7 @@
 <a href="https://linkedin.com/in/shivamkasaudhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamkasaudhan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/shivam_kasaudha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shivam_kasaudha1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/shivam_kasaudhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivam_kasaudhan/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/shivam_kasaudha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/shivam_kasaudha1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
