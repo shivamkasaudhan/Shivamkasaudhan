@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkasaudhan&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkasaudhan" /> </p>
  🧑‍💻 I’m currently learning Data Analytics.
 
- 📧 **shivam.kasaudhan2021.vitbhopal.ac.in**
+ 📧 **shivamkasaudhan266@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
