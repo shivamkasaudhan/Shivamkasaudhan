@@ -1,5 +1,5 @@
 # 💫 Shivam Kumar Kasaudhan
-🔭 I’m currently learning Solidity and JavaScript.<br>📧 Mail- shivamkasaudhan266@gmail.com
+🔭 I’m currently learning MERN and DSA.<br>📧 Mail- shivamkasaudhan266@gmail.com
 
 
 # 💻 Tech Stack & Developer Tools:
